@@ -164,8 +164,8 @@ h1,
   border-top: 2px solid gray;
   border-radius: 0 25px 25px 0;
   padding: 0;
-  color: white;
-  background-color: blue;
+  color: black;
+  background-color: skyblue;
 }
 
 @media screen and (max-width: 576px) {
