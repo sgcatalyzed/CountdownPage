@@ -160,8 +160,8 @@ h1,
 .container .right .mainInfo .form-subscribe button {
   width: 120px;
   height: 40px;
-  border: 1px solid gray;
-  border-top: 2px solid gray;
+  border: 1px solid black;
+  margin-bottom: -0.5em;
   border-radius: 0 25px 25px 0;
   padding: 0;
   color: black;
@@ -228,11 +228,6 @@ h1,
 button,
 .form {
   font-family: "Lato", sans-serif;
-}
-
-.slogan,
-.form-subscribe {
-  margin-left: 2em;
 }
 
 @media screen and (max-width: 576px) {
