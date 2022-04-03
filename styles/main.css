@@ -92,7 +92,8 @@ h1,
   -webkit-box-align: start;
   -ms-flex-align: start;
   align-items: flex-start;
-  background-image: url("/Blockchain.jpg");
+  background-image: url("https://rawcdn.githack.com/sgcatalyzed/CountdownPage/f319669d19da4e547dc55529043fc77ec59d608d/Blockchain.jpg
+");
   background-position: 75% 0%;
   background-repeat: no-repeat;
   opacity: 0.8;
@@ -101,7 +102,8 @@ h1,
 @media screen and (max-width: 576px) {
   .container .right {
     height: 47vh;
-    background-image: url("/Blockchain.jpg");
+    background-image: url("https://rawcdn.githack.com/sgcatalyzed/CountdownPage/f319669d19da4e547dc55529043fc77ec59d608d/Blockchain.jpg
+");
     background-position: 70% 0%;
     background-repeat: no-repeat;
     -webkit-box-align: center;
