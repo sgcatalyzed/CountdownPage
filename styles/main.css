@@ -37,7 +37,7 @@ h1,
 }
 
 .container .row .left-wrap .left {
-  background-image: url("/BlueFractals.jpg");
+  background-image: url("https://rawcdn.githack.com/sgcatalyzed/CountdownPage/5ef2db374a71a62d47e9d57dae08f21423006053/BlueFractals.jpg");
   background-repeat: no-repeat;
   background-position: 50% 100%;
   height: 100vh;
