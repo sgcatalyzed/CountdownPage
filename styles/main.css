@@ -37,9 +37,9 @@ h1,
 }
 
 .container .row .left-wrap .left {
-  background-image: url(https://rawcdn.githack.com/sgcatalyzed/CountdownPage/72a4e9846d28054c576f4b3b2f1df5854e366334/img/247.jpg);
+  background-image: url("BlueFractals.jpg");
   background-repeat: no-repeat;
-  background-position: 50% 100%;
+  background-position: 10% 10%;
   height: 100vh;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -117,7 +117,8 @@ h1,
 
 .container .right .mainInfo h1 {
   font-size: 2em;
-  margin-left: 1em;
+  margin-left: 0em;
+  margin-bottom: 0.5em;
 }
 
 @media screen and (max-width: 576px) {
