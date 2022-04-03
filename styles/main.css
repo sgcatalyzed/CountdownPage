@@ -170,9 +170,9 @@ h1,
   width: 120px;
   height: 40px;
   border: 1px solid black;
-  margin-bottom: -0.5em;
+  margin-left: -0.5em;
   border-radius: 0 25px 25px 0;
-  padding: 0;
+  padding: -0.5em;
   color: black;
   background-color: skyblue;
 }
@@ -180,6 +180,14 @@ h1,
 @media screen and (max-width: 576px) {
   .container .right .mainInfo .form-subscribe button {
     width: 100px;
+    width: 120px;
+    height: 40px;
+    border: 1px solid black;
+    margin-bottom: -0.5em;
+    border-radius: 0 25px 25px 0;
+    padding: 0;
+    color: black;
+    background-color: skyblue;
   }
 }
 
