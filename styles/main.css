@@ -52,7 +52,7 @@ h1,
   .container .row .left-wrap .left {
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 95%, 0% 100%);
     clip-path: polygon(0 0, 100% 0, 100% 95%, 0% 100%);
-    height: 40vh;
+    height: 45vh;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-flow: column wrap;
