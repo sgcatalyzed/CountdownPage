@@ -98,7 +98,7 @@ h1,
   opacity: 0.8;
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 667px) {
   .container .right {
     height: 47vh;
     background-image: url("https://rawcdn.githack.com/sgcatalyzed/CountdownPage/f319669d19da4e547dc55529043fc77ec59d608d/Blockchain.jpg");
@@ -117,7 +117,7 @@ h1,
   flex: 1;
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 667px) {
   .container .right .mainInfo {
     text-align: center;
   }
