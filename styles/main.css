@@ -39,7 +39,7 @@ h1,
 .container .row .left-wrap .left {
   background-image: url("https://github.com/sgcatalyzed/CountdownPage/blob/c19cf6df6f45e67ef40ed980a22ebef22c681964/BlueFractals.jpg");
   background-repeat: no-repeat;
-  background-position: 10% 10%;
+  background-position: 50% 100%;
   height: 100vh;
   -webkit-box-align: center;
   -ms-flex-align: center;
